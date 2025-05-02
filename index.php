@@ -1,5 +1,7 @@
 <?php include 'back/data.php' ?>
 <?php include 'back/constants.php' ?>
+<?php require_once 'google-config.php';?>
+
 <?php
     session_start();
 
